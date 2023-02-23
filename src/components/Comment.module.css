@@ -1,6 +1,7 @@
 .comment{
     display:flex;
     gap:1rem;
+    margin-top:1rem;
 }
 .commentBox{
     flex:1;
